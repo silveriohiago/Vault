@@ -18,4 +18,4 @@ And we have platforms, cloud, ftp, desktop, mobile. And what to do like apps, st
 
 So yes there is a lot of stuff boy. But this devbook is for web developers, is more like a wiki. Maybe this is necessary to be for some reason my personal wiki. But i'm doing this to help others web developers, like frontend and backend guys. I don't know what name to give to it. So I'll stick with devbook sounds good.
 
-Maybe use pwd book.. I dunno.
+Maybe use pwd book.. I dunno. I not a greater programmer that I can tell you everything. But I know how to enter in the road and show the path, like a wizard.
