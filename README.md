@@ -6,6 +6,8 @@ If this helped you in something so give me a star or not.
 
 Thanks.
 
+This is not ready yet. So don't be sad, keep seing updates.
+
 [I want to go to the devbook](https://github.com/hiagosilverio/web-devbook/wiki)
 
 ## Why a devbook?
