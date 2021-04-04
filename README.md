@@ -2,7 +2,7 @@
 
 Welcome to my personal devbook here i'll huh put info about links learn stuff.
 This is a open project btw so don't have start and close date. This will serve as a wiki thing first.
-If this helped you in something so give me a Star.
+If this helped you in something so give me a star or not.
 
 Thanks.
 
@@ -17,3 +17,5 @@ First we have architeture how to programm using functional, logical, object orie
 And we have platforms, cloud, ftp, cms, desktop, mobile. And what to do like apps, stores, systems.. and how to fix errors.
 
 So yes there is a lot of stuff boy. But this devbook is for web developers, is more like a wiki. Maybe this is necessary to be for some reason my personal wiki. But i'm doing this to help others web developers, like frontend and backend guys. I don't know what name to do to that.. so I'll stick with devbook sounds good.
+
+Maybe use pwd book.. I dunno.
