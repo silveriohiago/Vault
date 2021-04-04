@@ -10,7 +10,7 @@ Thanks.
 
 ## Why a devbook?
 
-Well first I was having a contact in college with design and they come with stratches book. This book learn design people how to pratice and doing stuff.
+Well first I was having a contact in college with design and they come with stretches book. This book learn design people how to pratice and doing stuff.
 So programmers also have one like bootcamp this is how we sharpen the axe. But that is a pratice book in development we have a lot of layers that define what is programming like.
 
 First we have architeture how to programm using functional, logical, object oriented and so on, we have ways to do something cascade or scrum, xp project cycles etc.
