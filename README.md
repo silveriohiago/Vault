@@ -28,4 +28,4 @@ Maybe use pwd book.. I dunno. I not a greater programmer that I can tell you eve
 
 * Spread the most information as possible without create double vision, tracing real objetives to real jobs.
 * Not only spread by spreading being compromissed to help others. But everything in your time.
-* What I learn I share. 
+* What I learn I share. No SCAM.
