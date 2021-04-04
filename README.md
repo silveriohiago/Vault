@@ -6,7 +6,7 @@ If this helped you in something so give me a Star.
 
 Thanks.
 
-[Where is it?](https://github.com/hiagosilverio/web-devbook/wiki)
+[I want to go to the devbook](https://github.com/hiagosilverio/web-devbook/wiki)
 
 ## Why a devbook?
 
