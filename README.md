@@ -13,9 +13,9 @@ When we learn together, we learn more than alone as always.
 
 ## Goals?
 
-* Spread the most information as possible without create double vision, tracing real objetives to real jobs.
+* Spread the most information as possible without create double vision tracing real objetives to real jobs.
 * Not only spread by spreading being compromissed to help others. But everything in your time.
-* What I learn I share. No SCAM.
+* What I learn I share. No SCAM, trust me I'm an Analyst.
 
 ## Why a devbook?
 
