@@ -14,7 +14,7 @@ When we learn together, we learn more than alone as always.
 
 ## Why a devbook?
 
-Well first I was having a contact in college with design and they come with a sketch book. This book teaches design people how to pratice and doing stuff.
+Well first I was having a contact in college with design and they come with a sketch book. This book teaches design how to pratice and doing stuff.
 So programmers also have one like codecamp this is how we sharpen the axe. But that is a pratice book in development we have a lot of layers that define what is programming like.
 
 First we have architeture how to program using functional, logical, object oriented and so on, we have ways to do something cascade or scrum, xp project cycles etc.
