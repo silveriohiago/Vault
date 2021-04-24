@@ -11,6 +11,12 @@ When we learn together, we learn more than alone as always.
 
 [I want to go to the devbook](https://github.com/hiagosilverio/web-devbook/wiki)
 
+## Goals?
+
+* Spread the most information as possible without create double vision, tracing real objetives to real jobs.
+* Not only spread by spreading being compromissed to help others. But everything in your time.
+* What I learn I share. No SCAM.
+
 ## Why a devbook?
 
 Well first I was having a contact in college with design and they come with a sketch book. This book teaches design how to pratice and doing stuff.
@@ -23,8 +29,5 @@ So yes there is a lot of stuff boy. But this devbook is for web developers is mo
 
 Maybe use pwd book.. I dunno. I not a greater programmer that I can tell you everything. But I know how to enter in the road and show the path like a wizard.
 
-## Goals?
+Contribuitions that I see that is relevant for scenario I give the necessary credits to the autor. I'm not here to stole info but spread it.
 
-* Spread the most information as possible without create double vision, tracing real objetives to real jobs.
-* Not only spread by spreading being compromissed to help others. But everything in your time.
-* What I learn I share. No SCAM.
