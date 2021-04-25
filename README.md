@@ -4,7 +4,8 @@ Welcome to the devbook wiki!
 [Why a devbook?](https://github.com/hiagosilverio/web-devbook/blob/main/intro.md)
 
 ## Learn
-This is a learn list but for now they weren't verified so i'll put a verified flag into it but they are unverified for now.
+This is a learn list but for now what I not sure i'll put a verified flag into it.
+
 * <a href="https://digitalinnovation.one/sign-up">Digital Innovation</a>
 * <a href="https://cursoemvideo.com/" >Curso em Vídeo</a>
 * <a href="https://www.sololearn.com/" >Solo Learn</a> (unverified)
