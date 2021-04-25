@@ -46,3 +46,7 @@ https://www.meetup.com/pt-BR/
 
 ## ReactJs
 * [Atomize Code](https://atomizecode.com/docs/react/setup)
+
+## Misc
+[Shields.io](https://shields.io/) <br/>
+A website for build badges to repos
