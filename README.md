@@ -15,7 +15,7 @@ Portuguese programming website
 * <a href="https://vuejs.org/v2/guide/">Vue Js</a> <br/>
 Learn vue.js from zero
 
-* [Rocket Seat](https://maratonadiscover.rocketseat.com.br/maratona/aula-01) <br/>
+* [RocketSeat Discover Maraton](https://maratonadiscover.rocketseat.com.br/maratona/aula-01) <br/>
 A free short course that teaches node.js
 
 * [Codecamp](https://www.freecodecamp.org/) <br/>
