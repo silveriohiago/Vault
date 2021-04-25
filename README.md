@@ -28,7 +28,7 @@ A roadmap for web developers teaches how start from zero to hero
 * [Jupeter's Clean Code repo](https://github.com/jupeter/clean-code-php)
 
 ## Frontend
-### ReactJs
+### React.js
 * [Atomize Code](https://atomizecode.com/docs/react/setup)
 
 ## Frameworks
