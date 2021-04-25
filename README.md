@@ -46,13 +46,13 @@ Learn programming with game
 * [Jupeter's Clean Code repo](https://github.com/jupeter/clean-code-php)<br/>
 
 **CMS** 
-- [PrestaShop](https://www.prestashop.com/pt)
-- [Magento](https://magento.com/)
-- [Drupal](https://www.drupal.org/)
-- [Joomla](https://www.joomla.org/)
-- [Wordpress](https://br.wordpress.org/) <br/>
-  - Shop 
-    - [Woocomerce](https://woocommerce.com/)
+* [PrestaShop](https://www.prestashop.com/pt)
+* [Magento](https://magento.com/)
+* [Drupal](https://www.drupal.org/)
+* [Joomla](https://www.joomla.org/)
+* [Wordpress](https://br.wordpress.org/) <br/>
+  * Shop 
+    * [Woocomerce](https://woocommerce.com/)
 
 ## Misc
 [Shields.io](https://shields.io/) <br/>
