@@ -23,8 +23,13 @@ Train your code and learn stuff by solving problems
 * [Web Dev Roadmap](https://github.com/kamranahmedse/developer-roadmap)<br/>
 A roadmap for web developers teaches how start from zero to hero
 
-## PHP
+## Backend
+### PHP
 * [Jupeter's Clean Code repo](https://github.com/jupeter/clean-code-php)
+
+## Frontend
+### ReactJs
+* [Atomize Code](https://atomizecode.com/docs/react/setup)
 
 ## Frameworks
 * [Phaser](http://phaser.io/) <br/>
@@ -44,9 +49,6 @@ Learn programming with game
 ## Meetup Brasil
 
 https://www.meetup.com/pt-BR/
-
-## ReactJs
-* [Atomize Code](https://atomizecode.com/docs/react/setup)
 
 ## Misc
 [Shields.io](https://shields.io/) <br/>
