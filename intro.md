@@ -11,8 +11,6 @@ Btw this is not ready yet. So don't be sad, keep seing updates.
 
 When we learn together, we learn more than alone as always.
 
-[I want to go to the devbook](https://github.com/hiagosilverio/web-devbook/wiki)
-
 ## Goals?
 
 * Spread the most information as possible without create double vision tracing real objetives to real jobs.
