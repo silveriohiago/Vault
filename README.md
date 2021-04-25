@@ -6,7 +6,7 @@ Welcome to the devbook wiki!
 ## Learn
 This is a learn list but for now what I not sure i'll put a verified flag into it.
 
-* <a href="https://digitalinnovation.one/sign-up">Digital Innovation</a>
+* <a href="https://digitalinnovation.one/sign-up">Digital Innovation</a> (unverified)
 * <a href="https://cursoemvideo.com/" >Curso em Vídeo</a> <br/>
 Portuguese programming website
 
