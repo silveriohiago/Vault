@@ -51,6 +51,7 @@ Learn programming with game
 - [Magento](https://magento.com/)
 - [Drupal](https://www.drupal.org/)
 - [Joomla](https://www.joomla.org/)
+- [Wordpress](https://br.wordpress.org/)
 
 ## Misc
 [Shields.io](https://shields.io/) <br/>
