@@ -54,8 +54,8 @@ Learn programming with game
 - [Wordpress](https://br.wordpress.org/)
 
 ## Misc
-[Shields.io](https://shields.io/) <br/>
-A website for build badges to repos
+[Shields.io](https://shields.io/) 
+* A website for build badges to repos
 
 [Meetup Brasil](https://www.meetup.com/pt-BR/)<br/>
 Meetups that serve as networking growth
