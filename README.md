@@ -52,7 +52,7 @@ Learn programming with game
 - [Joomla](https://www.joomla.org/)
 - [Wordpress](https://br.wordpress.org/) <br/>
   - Shop 
-    -[Woocomerce](https://woocommerce.com/)
+    - [Woocomerce](https://woocommerce.com/)
 
 ## Misc
 [Shields.io](https://shields.io/) <br/>
