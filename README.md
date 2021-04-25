@@ -43,9 +43,9 @@ Learn programming with game
 * [CodinGame](https://www.codingame.com/)
 
 ## PHP
-* [Jupeter's Clean Code repo](https://github.com/jupeter/clean-code-php)
+* [Jupeter's Clean Code repo](https://github.com/jupeter/clean-code-php)<br/>
 
-### CMS
+** CMS ** <br/>
 - [PrestaShop](https://www.prestashop.com/pt)
 - [Woocomerce](https://woocommerce.com/)
 - [Magento](https://magento.com/)
