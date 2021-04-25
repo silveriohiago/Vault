@@ -24,7 +24,7 @@ Train your code and learn stuff by solving problems
 A roadmap for web developers teaches how start from zero to hero
 
 ## PHP
-* [Jupeter's clean Code repo](https://github.com/jupeter/clean-code-php)
+* [Jupeter's Clean Code repo](https://github.com/jupeter/clean-code-php)
 
 ## Frameworks
 * [Phaser](http://phaser.io/) <br/>
