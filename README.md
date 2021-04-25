@@ -8,6 +8,8 @@ This is a learn list but for now what I not sure i'll put a verified flag into i
 
 * <a href="https://digitalinnovation.one/sign-up">Digital Innovation</a>
 * <a href="https://cursoemvideo.com/" >Curso em Vídeo</a>
+Portuguese programming website
+
 * <a href="https://www.sololearn.com/" >Solo Learn</a> (unverified)
 * <a href="https://vuejs.org/v2/guide/">Vue Js</a> <br/>
 Learn vue.js from zero
