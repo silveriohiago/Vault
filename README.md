@@ -44,10 +44,9 @@ Learn programming with game
 
 * [CodinGame](https://www.codingame.com/)
 
-## Meetup Brasil
-
-https://www.meetup.com/pt-BR/
-
 ## Misc
 [Shields.io](https://shields.io/) <br/>
 A website for build badges to repos
+
+[Meetup Brasil](https://www.meetup.com/pt-BR/)<br/>
+Meetups that serve as networking growth
