@@ -27,6 +27,11 @@ A roadmap for web developers teaches how start from zero to hero
 ## PHP
 * [Jupeter's Clean Code repo](https://github.com/jupeter/clean-code-php)
 
+### CMS
+[PrestaShop](https://www.prestashop.com/pt)
+[Woocomerce](https://woocommerce.com/)
+[Magento](https://magento.com/)
+
 ## Frameworks
 * [Phaser](http://phaser.io/) <br/>
 A gaming framework that develops games with HTML and Javascript
