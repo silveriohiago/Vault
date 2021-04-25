@@ -24,16 +24,6 @@ Train your code and learn stuff by solving problems
 * [Web Dev Roadmap](https://github.com/kamranahmedse/developer-roadmap)<br/>
 A roadmap for web developers teaches how start from zero to hero
 
-## PHP
-* [Jupeter's Clean Code repo](https://github.com/jupeter/clean-code-php)
-
-### CMS
-- [PrestaShop](https://www.prestashop.com/pt)
-- [Woocomerce](https://woocommerce.com/)
-- [Magento](https://magento.com/)
-- [Drupal](https://www.drupal.org/)
-- [Joomla](https://www.joomla.org/)
-
 ## Frameworks
 * [Phaser](http://phaser.io/) <br/>
 A gaming framework that develops games with HTML and Javascript
@@ -51,6 +41,16 @@ A style framework for React.js
 Learn programming with game
 
 * [CodinGame](https://www.codingame.com/)
+
+## PHP
+* [Jupeter's Clean Code repo](https://github.com/jupeter/clean-code-php)
+
+### CMS
+- [PrestaShop](https://www.prestashop.com/pt)
+- [Woocomerce](https://woocommerce.com/)
+- [Magento](https://magento.com/)
+- [Drupal](https://www.drupal.org/)
+- [Joomla](https://www.joomla.org/)
 
 ## Misc
 [Shields.io](https://shields.io/) <br/>
