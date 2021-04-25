@@ -47,11 +47,11 @@ Learn programming with game
 
 **CMS** 
 - [PrestaShop](https://www.prestashop.com/pt)
-- [Woocomerce](https://woocommerce.com/)
 - [Magento](https://magento.com/)
 - [Drupal](https://www.drupal.org/)
 - [Joomla](https://www.joomla.org/)
-- [Wordpress](https://br.wordpress.org/)
+- [Wordpress(https://br.wordpress.org/) <br/>
+  - [Woocomerce](https://woocommerce.com/)
 
 ## Misc
 [Shields.io](https://shields.io/) <br/>
