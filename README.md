@@ -15,11 +15,6 @@ Portuguese programming website
 * <a href="https://vuejs.org/v2/guide/">Vue Js</a> <br/>
 Learn vue.js from zero
 
-## Lint
-
-## CleanCode
-* [Jupeter's Clean Code repo (PHP)](https://github.com/jupeter/clean-code-php)
-
 * [RocketSeat Discover Maraton](https://maratonadiscover.rocketseat.com.br/maratona/aula-01) <br/>
 A free short course that teaches node.js
 
@@ -28,6 +23,11 @@ Train your code and learn stuff by solving problems
 
 * [Web Dev Roadmap](https://github.com/kamranahmedse/developer-roadmap)<br/>
 A roadmap for web developers teaches how start from zero to hero
+
+## CleanCode
+* [Jupeter's Clean Code repo (PHP)](https://github.com/jupeter/clean-code-php)
+
+## Lint
 
 ## Frameworks
 * [Phaser](http://phaser.io/) <br/>
