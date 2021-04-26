@@ -19,7 +19,7 @@ Portuguese programming website
 Learn vue.js from zero
 
 * [RocketSeat Discover Maraton](https://maratonadiscover.rocketseat.com.br/maratona/aula-01) <br/>
-A free short course that teaches node.js
+A free short course that teaches node.js a bit
 
 * [Codecamp](https://www.freecodecamp.org/) <br/>
 Train your code and learn stuff by solving problems
@@ -31,10 +31,20 @@ A roadmap for web developers teaches how start from zero to hero
 * [Jupeter's Clean Code repo (PHP)](https://github.com/jupeter/clean-code-php)
 
 ## Lint
+* [Js Hint](https://jshint.com/install/) (unverified)
+* [Es lint](https://eslint.org/docs/user-guide/getting-started) (unverified)
+* [Babel lint]
 
 ## Frameworks
 * [Phaser](http://phaser.io/) <br/>
 A gaming framework that develops games with HTML and Javascript
+
+* [Babel.js](https://babeljs.io/setup#installation) <br/>
+Javascript framework
+
+* [Typescript](https://www.typescriptlang.org/download) 
+
+* [Coffeescript](https://coffeescript.org/)
 
 * [Ionic](https://ionicframework.com/)  <br/>
 PHP Framework to develop mobile app's  
