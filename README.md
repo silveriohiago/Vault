@@ -42,7 +42,9 @@ Learn programming with game
 
 * [CodinGame](https://www.codingame.com/)
 
-## PHP
+## Structural Table
+
+### PHP
 * [Jupeter's Clean Code repo](https://github.com/jupeter/clean-code-php)<br/>
 
 **CMS** 
