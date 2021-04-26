@@ -7,6 +7,7 @@ Welcome to the devbook wiki! <br/><br/>
 ## Learn
 This is a learn list but for now what I not sure i'll put a verified flag into it.
 
+* <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction"> MDN Javascript Guide</a>
 * <a href="https://digitalinnovation.one/sign-up">Digital Innovation</a> (unverified)
 * <a href="https://cursoemvideo.com/" >Curso em Vídeo</a> <br/>
 Portuguese programming website
