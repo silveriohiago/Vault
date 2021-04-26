@@ -15,6 +15,11 @@ Portuguese programming website
 * <a href="https://vuejs.org/v2/guide/">Vue Js</a> <br/>
 Learn vue.js from zero
 
+## Lint
+
+## CleanCode
+* [Jupeter's Clean Code repo (PHP)](https://github.com/jupeter/clean-code-php)
+
 * [RocketSeat Discover Maraton](https://maratonadiscover.rocketseat.com.br/maratona/aula-01) <br/>
 A free short course that teaches node.js
 
@@ -45,7 +50,6 @@ Learn programming with game
 ## Structural Table
 
 ### PHP
-* [Jupeter's Clean Code repo](https://github.com/jupeter/clean-code-php)<br/>
 
 **CMS** 
 * [PrestaShop](https://www.prestashop.com/pt)
