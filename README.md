@@ -34,6 +34,15 @@ A roadmap for web developers teaches how start from zero to hero
 * [Js Hint](https://jshint.com/install/) (unverified)
 * [Es lint](https://eslint.org/docs/user-guide/getting-started) (unverified)
 * [Babel lint]
+* [PHP Lint](https://stackoverflow.com/questions/378959/how-can-i-perform-static-code-analysis-in-php)
+
+## Design Patterns
+
+* [PHP Right Way](http://br.phptherightway.com/pages/Design-Patterns.html)
+* [Javascript](https://imasters.com.br/devsecops/design-patterns-com-javascript-typescript)
+* SOLID
+* TDD
+
 
 ## Frameworks
 * [Phaser](http://phaser.io/) <br/>
