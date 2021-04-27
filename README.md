@@ -65,6 +65,12 @@ Mobile apps with HTML, JS and CSS
 * [Atomize Code](https://atomizecode.com/docs/react/setup) <br/>
 A style framework for React.js
 
+* Laravel
+
+* CakePHP
+
+* ZendFramework
+
 ## Gamefication
 Learn programming with game
 
