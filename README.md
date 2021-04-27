@@ -1,7 +1,7 @@
 <base target="_blank">
 
 ## Welcome 
-Welcome to the devbook wiki! <br/><br/>
+Welcome to the devbook! <br/><br/>
 <a href="https://github.com/hiagosilverio/web-devbook/blob/main/intro.md"><img src="https://img.shields.io/badge/About%20the%20devbook-333.svg"></a>
 
 ## Learn
