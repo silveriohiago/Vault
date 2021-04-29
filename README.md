@@ -7,6 +7,8 @@ Welcome to the devbook! <br/><br/>
 ## Learn
 This is a learn list but for now what I not sure i'll put a verified flag into it.
 
+* <a href="https://www.devmedia.com.br/algoritmos-de-ordenacao-analise-e-comparacao/28261#:~:text=Os%20mais%20populares%20algoritmos%20de,Heap%20sort%20e%20Shell%20sort.">Kind of Sorts</a><br/>
+
 * <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction"> MDN Javascript Guide</a> <br/>
 Learn Javascript by Mozzila
 
