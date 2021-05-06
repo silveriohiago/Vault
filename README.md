@@ -99,3 +99,7 @@ A website for build badges to repos
 
 [Meetup Brasil](https://www.meetup.com/pt-BR/)<br/>
 Meetups that serve as networking growth
+
+[BFS search](https://en.wikipedia.org/wiki/Breadth-first_search)<br/>
+
+[Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)<br/>
