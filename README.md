@@ -20,8 +20,8 @@ Portuguese programming website
 * <a href="https://vuejs.org/v2/guide/">Vue.Js</a> <br/>
 Learn vue.js from zero
 
-* [RocketSeat Discover Maraton](https://maratonadiscover.rocketseat.com.br/maratona/aula-01) <br/>
-A free short course that teaches node.js a bit
+* [RocketSeat Discover Maraton]
+Don't enter to their discord, they are toxic asf.
 
 * [Codecamp](https://www.freecodecamp.org/) <br/>
 Train your code and learn stuff by solving problems
