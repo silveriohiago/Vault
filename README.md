@@ -97,6 +97,9 @@ Learn programming with game
   * Shop 
     * [Woocomerce](https://woocommerce.com/)
 
+## Tools
+[Password Verification](https://haveibeenpwned.com/Passwords)
+
 ## Misc
 [Shields.io](https://shields.io/) <br/>
 A website for build badges to repos
