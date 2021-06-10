@@ -98,7 +98,8 @@ Learn programming with game
     * [Woocomerce](https://woocommerce.com/)
 
 ## Tools
-[Password Verification](https://haveibeenpwned.com/Passwords)
+[Have I been pwned](https://haveibeenpwned.com/Passwords) <br/>
+Password verification for security
 
 ## Misc
 [Shields.io](https://shields.io/) <br/>
