@@ -99,7 +99,7 @@ Learn programming with game
 
 ## Tools
 [Have I been pwned](https://haveibeenpwned.com/Passwords) <br/>
-Password verification for security
+Password verification for security against hydra stuff
 
 ## Misc
 [Shields.io](https://shields.io/) <br/>
