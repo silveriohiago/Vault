@@ -102,6 +102,8 @@ Learn programming with game
 Password verification for security against hydra stuff
 
 ## Misc
+[MRP O que é?](https://www.totvs.com/blog/gestao-industrial/saiba-o-que-e-mrp-e-como-ele-e-usado-na-gestao-de-industrias/)
+
 [Shields.io](https://shields.io/) <br/>
 A website for build badges to repos
 
