@@ -48,7 +48,19 @@ A roadmap for web developers teaches how start from zero to hero
 
 ## Unit Tests
 
+**CMS (Brazil)** 
+* [PrestaShop](https://www.prestashop.com/pt)
+* [Magento](https://magento.com/)
+* [Drupal](https://www.drupal.org/)
+* [Joomla](https://www.joomla.org/)
+  * Shop
+    * [Virtuemart](https://virtuemart.net/)
+* [Wordpress](https://br.wordpress.org/) <br/>
+  * Shop 
+    * [Woocomerce](https://woocommerce.com/)
+
 ## Frameworks
+
 * [Phaser](http://phaser.io/) <br/>
 A gaming framework that develops games with HTML and Javascript
 
@@ -80,19 +92,6 @@ Learn programming with game
 * [CodinGame](https://www.codingame.com/)
 
 ## Structural Table
-
-### PHP
-
-**CMS** 
-* [PrestaShop](https://www.prestashop.com/pt)
-* [Magento](https://magento.com/)
-* [Drupal](https://www.drupal.org/)
-* [Joomla](https://www.joomla.org/)
-  * Shop
-    * [Virtuemart](https://virtuemart.net/)
-* [Wordpress](https://br.wordpress.org/) <br/>
-  * Shop 
-    * [Woocomerce](https://woocommerce.com/)
 
 ## Tools
 [Have I been pwned](https://haveibeenpwned.com/Passwords) <br/>
