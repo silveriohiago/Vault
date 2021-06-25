@@ -1,8 +1,8 @@
 <a href="https://github.com/hiagosilverio/web-devbook/"><img src="https://img.shields.io/badge/Return%20Home%20-333.svg"></a>
 
-# Personal web developer's book
+# My wiki
 
-Welcome to my personal devbook here i'll huh put info about links learn stuff.
+Welcome to my wiki here i'll huh put info about links learn stuff.
 This is a open project btw so it don't have start and close date. This will serve as a wiki thing first.
 
 Thanks.
