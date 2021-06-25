@@ -103,6 +103,10 @@ Learn programming with game
 [Have I been pwned](https://haveibeenpwned.com/Passwords) <br/>
 Password verification for security against hydra stuff
 
+[SQL Management Studio](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)<br/>
+
+[Mysql Workbench](https://www.mysql.com/products/workbench/)<br/>
+
 ## Misc
 [MRP O que é?](https://www.totvs.com/blog/gestao-industrial/saiba-o-que-e-mrp-e-como-ele-e-usado-na-gestao-de-industrias/)
 
