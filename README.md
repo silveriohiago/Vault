@@ -50,18 +50,23 @@ A roadmap for web developers teaches how start from zero to hero
 * SOLID
 * TDD
 
-## Unit Tests
+## Shops (E-commerces)
 
-**CMS (Brazil)** 
+* [PrestaShop](https://www.prestashop.com/pt)
+* [Magento](https://magento.com/)
+* [Joomla -> Virtuemart](https://virtuemart.net/)
+* [Wordpress -> Woocomerce](https://woocommerce.com/)
+
+## CMS
+
 * [PrestaShop](https://www.prestashop.com/pt)
 * [Magento](https://magento.com/)
 * [Drupal](https://www.drupal.org/)
 * [Joomla](https://www.joomla.org/)
-  * Shop
-    * [Virtuemart](https://virtuemart.net/)
-* [Wordpress](https://br.wordpress.org/) <br/>
-  * Shop 
-    * [Woocomerce](https://woocommerce.com/)
+* [Wordpress](https://wordpress.org/)
+
+## Unit Tests
+nothing here
 
 ## Frameworks
 
@@ -94,8 +99,6 @@ A style framework for React.js
 Learn programming with game
 
 * [CodinGame](https://www.codingame.com/)
-
-## Structural Table
 
 ## Tools
 [Have I been pwned](https://haveibeenpwned.com/Passwords) <br/>
