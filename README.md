@@ -94,13 +94,11 @@ Password verification for security against hydra stuff
 
 ## Misc
 
-[MRP O que é?](https://www.totvs.com/blog/gestao-industrial/saiba-o-que-e-mrp-e-como-ele-e-usado-na-gestao-de-industrias/)
-[Sem Rush](https://www.semrush.com/)
-[Shields.io](https://shields.io/) <br/>
-A website for build badges to repos
-[Meetup Brasil](https://www.meetup.com/pt-BR/)<br/>
-Meetups that serve as networking growth
-[BFS search](https://en.wikipedia.org/wiki/Breadth-first_search)<br/>
-[Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)<br/>
-[Depth first search](https://en.wikipedia.org/wiki/Depth-first_search)
+* [MRP O que é?](https://www.totvs.com/blog/gestao-industrial/saiba-o-que-e-mrp-e-como-ele-e-usado-na-gestao-de-industrias/)
+* [Sem Rush](https://www.semrush.com/)
+* [Shields.io](https://shields.io/) A website for build badges to repos
+* [Meetup Brasil](https://www.meetup.com/pt-BR/) Meetups that serve as networking growth
+* [BFS search](https://en.wikipedia.org/wiki/Breadth-first_search)<br/>
+* [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)<br/>
+* [Depth first search](https://en.wikipedia.org/wiki/Depth-first_search)
 
