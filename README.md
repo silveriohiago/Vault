@@ -1,7 +1,7 @@
 <base target="_blank">
 
 ## Welcome 
-<a href="https://github.com/hiagosilverio/my-wiki/blob/main/intro.md"><img src="https://img.shields.io/badge/About%20the%20devbook-333.svg"></a>
+<a href="https://github.com/hiagosilverio/my-wiki/blob/main/intro.md"><img src="https://img.shields.io/badge/About%20My Wiki%20-333.svg"></a>
 
 ## General
 Also anything here before being classified
