@@ -74,7 +74,6 @@ Learn programming with game
 * [Have I been pwned](https://haveibeenpwned.com/Passwords) Password verification for security against hydra stuff
 * [SQL Management Studio](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 * [Mysql Workbench](https://www.mysql.com/products/workbench/)
-* [ODBC Driver](https://www.microsoft.com/pt-br/download/details.aspx?id=56567) Driver that links SQL server and MySQL
 * [Sublime Text](https://www.sublimetext.com/)
 * [VS code](https://code.visualstudio.com/)
 * [Visual Studio](https://visualstudio.microsoft.com/)
@@ -85,6 +84,7 @@ Learn programming with game
 
 ## Misc
 
+* [ODBC Driver](https://www.microsoft.com/pt-br/download/details.aspx?id=56567) Driver that links SQL server and MySQL
 * [SQL Express](https://www.microsoft.com/pt-br/download/details.aspx?id=55994)
 * [MRP O que é?](https://www.totvs.com/blog/gestao-industrial/saiba-o-que-e-mrp-e-como-ele-e-usado-na-gestao-de-industrias/)
 * [Sem Rush](https://www.semrush.com/)
