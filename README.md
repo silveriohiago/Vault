@@ -14,15 +14,11 @@ Also anything here before being classified
 * <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction"> MDN Javascript Guide</a> <br/>
 Learn Javascript by Mozzila
 * <a href="https://digitalinnovation.one/sign-up">Digital Innovation</a> (unverified)
-* <a href="https://cursoemvideo.com/" >Curso em Vídeo</a> <br/>
-Portuguese programming website
+* <a href="https://cursoemvideo.com/" >Curso em Vídeo</a> Portuguese programming website
 * <a href="https://www.sololearn.com/" >Solo Learn</a> (unverified)
-* <a href="https://vuejs.org/v2/guide/">Vue.Js</a> <br/>
-Learn vue.js from zero
-* [Codecamp](https://www.freecodecamp.org/) <br/>
-Train your code and learn stuff by solving problems
-* [Web Dev Roadmap](https://github.com/kamranahmedse/developer-roadmap)<br/>
-A roadmap for web developers teaches how start from zero to hero
+* <a href="https://vuejs.org/v2/guide/">Vue.Js</a> Learn vue.js from zero
+* [Codecamp](https://www.freecodecamp.org/) Train your code and learn stuff by solving problems
+* [Web Dev Roadmap](https://github.com/kamranahmedse/developer-roadmap) A roadmap for web developers teaches how start from zero to hero
 * [GrassHopper](https://learn.grasshopper.app/project/fundamentals) <br/>
 
 ## CleanCode
