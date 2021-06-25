@@ -84,6 +84,7 @@ Learn programming with game
 
 ## Misc
 
+* [SQL Express](https://www.microsoft.com/pt-br/download/details.aspx?id=55994)
 * [MRP O que é?](https://www.totvs.com/blog/gestao-industrial/saiba-o-que-e-mrp-e-como-ele-e-usado-na-gestao-de-industrias/)
 * [Sem Rush](https://www.semrush.com/)
 * [Shields.io](https://shields.io/) A website for build badges to repos
