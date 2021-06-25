@@ -79,6 +79,7 @@ Learn programming with game
 * [VS code](https://code.visualstudio.com/)
 * [Visual Studio](https://visualstudio.microsoft.com/)
 * [Vim](https://www.vim.org/)
+* [Slack](https://slack.com/intl/pt-br/) -> programing groups around here
 
 ## Misc
 
