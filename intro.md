@@ -16,7 +16,7 @@ When we learn together, we learn more than alone as always, we need something to
 * Not only spread by spreading being compromissed to help others. But everything in your time.
 * What I learn I share. No SCAM, trust me I'm an Analyst.
 
-## Why a devbook?
+## Why?
 
 Well first I was having a contact in college with design and they come with a sketch book. This book teaches design how to pratice and doing stuff.
 So programmers also have one like codecamp this is how we sharpen the axe. But that is a pratice book in development we have a lot of layers that define what is programming like.
