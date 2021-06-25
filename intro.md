@@ -8,7 +8,7 @@ Thanks.
 
 Btw this is not ready yet. So don't be sad, keep seing updates.
 
-When we learn together, we learn more than alone as always.
+When we learn together, we learn more than alone as always, we need something to be to be something. So I need to search to be searched.
 
 ## Goals?
 
