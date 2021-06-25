@@ -81,6 +81,7 @@ Learn programming with game
 * [Vim](https://www.vim.org/)
 * [Slack](https://slack.com/intl/pt-br/) -> programing groups around here
 * [Discord](https://discordapp.com) -> Discord have groups on web just search for it (They are Labs) 
+* [Visual Paradigm](https://www.visual-paradigm.com/)
 
 ## Misc
 
