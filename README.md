@@ -80,6 +80,7 @@ Learn programming with game
 * [Visual Studio](https://visualstudio.microsoft.com/)
 * [Vim](https://www.vim.org/)
 * [Slack](https://slack.com/intl/pt-br/) -> programing groups around here
+* [Discord](https://discordapp.com) -> Discord have groups on web just search for it
 
 ## Misc
 
