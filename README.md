@@ -59,7 +59,6 @@ A roadmap for web developers teaches how start from zero to hero
 
 ## CMS
 
-* [PrestaShop](https://www.prestashop.com/pt)
 * [Magento](https://magento.com/)
 * [Drupal](https://www.drupal.org/)
 * [Joomla](https://www.joomla.org/)
