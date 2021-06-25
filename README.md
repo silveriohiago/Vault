@@ -85,11 +85,11 @@ Learn programming with game
 * [Have I been pwned](https://haveibeenpwned.com/Passwords) <br/>
 Password verification for security against hydra stuff
 
-* [SQL Management Studio](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)<br/>
-* [Mysql Workbench](https://www.mysql.com/products/workbench/)<br/>
-* [Sublime Text](https://www.sublimetext.com/)<br/>
-* [VS code](https://code.visualstudio.com/)<br/>
-* [Visual Studio](https://visualstudio.microsoft.com/)<br/>
+* [SQL Management Studio](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
+* [Mysql Workbench](https://www.mysql.com/products/workbench/)
+* [Sublime Text](https://www.sublimetext.com/)
+* [VS code](https://code.visualstudio.com/)
+* [Visual Studio](https://visualstudio.microsoft.com/)
 * [Vim](https://www.vim.org/)
 
 ## Misc
