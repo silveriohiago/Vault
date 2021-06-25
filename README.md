@@ -61,16 +61,12 @@ nothing here
 ## Frameworks
 
 * [Phaser](http://phaser.io/) A gaming framework that develops games with HTML and Javascript
-* [Babel.js](https://babeljs.io/setup#installation) <br/>
-Javascript framework
+* [Babel.js](https://babeljs.io/setup#installation) Javascript framework
 * [Typescript](https://www.typescriptlang.org/download) 
 * [Coffeescript](https://coffeescript.org/)
-* [Ionic](https://ionicframework.com/)  <br/>
-PHP Framework to develop mobile app's  
-* [Cordova](https://cordova.apache.org/) <br/>
-Mobile apps with HTML, JS and CSS
-* [Atomize Code](https://atomizecode.com/docs/react/setup) <br/>
-A style framework for React.js
+* [Ionic](https://ionicframework.com/) PHP Framework to develop mobile app's  
+* [Cordova](https://cordova.apache.org/) Mobile apps with HTML, JS and CSS
+* [Atomize Code](https://atomizecode.com/docs/react/setup) A style framework for React.js
 * Laravel
 * CakePHP
 * ZendFramework
@@ -81,9 +77,7 @@ Learn programming with game
 * [CodinGame](https://www.codingame.com/)
 
 ## Tools
-* [Have I been pwned](https://haveibeenpwned.com/Passwords) <br/>
-Password verification for security against hydra stuff
-
+* [Have I been pwned](https://haveibeenpwned.com/Passwords) Password verification for security against hydra stuff
 * [SQL Management Studio](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 * [Mysql Workbench](https://www.mysql.com/products/workbench/)
 * [Sublime Text](https://www.sublimetext.com/)
