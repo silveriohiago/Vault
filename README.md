@@ -107,10 +107,18 @@ Password verification for security against hydra stuff
 
 * [Mysql Workbench](https://www.mysql.com/products/workbench/)<br/>
 
-* [Sublime Text](https://www.sublimetext.com/)
+* [Sublime Text](https://www.sublimetext.com/)<br/>
+
+* [VS code](https://code.visualstudio.com/)<br/>
+
+* [Visual Studio](https://visualstudio.microsoft.com/)<br/>
+
+* [Vim](https://www.vim.org/)
 
 ## Misc
 [MRP O que é?](https://www.totvs.com/blog/gestao-industrial/saiba-o-que-e-mrp-e-como-ele-e-usado-na-gestao-de-industrias/)
+
+[Sem Rush](https://www.semrush.com/)
 
 [Shields.io](https://shields.io/) <br/>
 A website for build badges to repos
