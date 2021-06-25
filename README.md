@@ -10,8 +10,7 @@ Also anything here before being classified
 * <a href="https://forum.freecodecamp.org/">FreeCodeCamp Forum</a><br/>
 * <a href="https://www.devmedia.com.br/algoritmos-de-ordenacao-analise-e-comparacao/28261#:~:text=Os%20mais%20populares%20algoritmos%20de,Heap%20sort%20e%20Shell%20sort.">Kind of Sorts</a><br/>
 * <a href="https://www.codecademy.com/">Codecademy</a>
-* <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction"> MDN Javascript Guide</a> <br/>
-Learn Javascript by Mozzila
+* <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction"> MDN Javascript Guide</a> Learn Javascript by Mozzila
 * <a href="https://digitalinnovation.one/sign-up">Digital Innovation</a> (unverified)
 * <a href="https://cursoemvideo.com/" >Curso em Vídeo</a> Portuguese programming website
 * <a href="https://www.sololearn.com/" >Solo Learn</a> (unverified)
