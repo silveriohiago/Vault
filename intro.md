@@ -2,8 +2,7 @@
 
 # My wiki
 
-Welcome to my wiki here i'll huh put info about links learn stuff.
-This is a open project btw so it don't have start and close date. This will serve as a wiki thing first.
+Welcome to my wiki 
 
 Thanks.
 
