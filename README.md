@@ -60,8 +60,7 @@ nothing here
 
 ## Frameworks
 
-* [Phaser](http://phaser.io/) <br/>
-A gaming framework that develops games with HTML and Javascript
+* [Phaser](http://phaser.io/) A gaming framework that develops games with HTML and Javascript
 * [Babel.js](https://babeljs.io/setup#installation) <br/>
 Javascript framework
 * [Typescript](https://www.typescriptlang.org/download) 
