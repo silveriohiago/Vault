@@ -4,8 +4,8 @@
 Welcome to the devbook! <br/><br/>
 <a href="https://github.com/hiagosilverio/web-devbook/blob/main/intro.md"><img src="https://img.shields.io/badge/About%20the%20devbook-333.svg"></a>
 
-## Learn (also anything here before being classified)
-This is a learn list but for now what I not sure i'll put a verified flag into it.
+## Learn 
+Also anything here before being classified
 
 * <a href="https://www.youtube.com/freecodecamp">FreeCodeCamp Youtube Channel</a><br/>
 
