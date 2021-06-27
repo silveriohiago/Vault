@@ -81,7 +81,7 @@ Learn programming with game
 * [Vim](https://www.vim.org/)
 * [Slack](https://slack.com/intl/pt-br/) -> programing groups around here
 * [Discord](https://discordapp.com) -> Discord have groups on web just search for it (They are Labs) 
-* [Visual Paradigm](https://www.visual-paradigm.com/)
+* [Visual Paradigm](https://www.visual-paradigm.com/) -> Software to build diagrams
 
 ## Misc
 * [Diagrama de Classes](https://www.devmedia.com.br/orientacoes-basicas-na-elaboracao-de-um-diagrama-de-classes/37224)
