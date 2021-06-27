@@ -6,6 +6,7 @@
 ## General
 Also anything here before being classified
 
+
 * <a href="https://www.youtube.com/freecodecamp">FreeCodeCamp Youtube Channel</a><br/>
 * <a href="https://forum.freecodecamp.org/">FreeCodeCamp Forum</a><br/>
 * <a href="https://www.devmedia.com.br/algoritmos-de-ordenacao-analise-e-comparacao/28261#:~:text=Os%20mais%20populares%20algoritmos%20de,Heap%20sort%20e%20Shell%20sort.">Kind of Sorts</a><br/>
@@ -84,6 +85,7 @@ Learn programming with game
 
 ## Misc
 
+* [MER e ER](https://www.devmedia.com.br/modelo-entidade-relacionamento-mer-e-diagrama-entidade-relacionamento-der/14332)
 * [ODBC Driver](https://www.microsoft.com/pt-br/download/details.aspx?id=56567) Driver that links SQL server and MySQL
 * [SQL Express](https://www.microsoft.com/pt-br/download/details.aspx?id=55994)
 * [MRP O que é?](https://www.totvs.com/blog/gestao-industrial/saiba-o-que-e-mrp-e-como-ele-e-usado-na-gestao-de-industrias/)
