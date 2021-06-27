@@ -84,6 +84,7 @@ Learn programming with game
 * [Visual Paradigm](https://www.visual-paradigm.com/)
 
 ## Misc
+* [Diagrama de Classes](https://www.devmedia.com.br/orientacoes-basicas-na-elaboracao-de-um-diagrama-de-classes/37224)
 * [Normalização de Bancos de Dados Relacionais](http://www.dsc.ufcg.edu.br/~pet/jornal/maio2011/materias/recapitulando.html)
 * [MER e ER Banco de dados](https://www.devmedia.com.br/modelo-entidade-relacionamento-mer-e-diagrama-entidade-relacionamento-der/14332)
 * [ODBC Driver](https://www.microsoft.com/pt-br/download/details.aspx?id=56567) Driver that links SQL server and MySQL
