@@ -84,7 +84,7 @@ Learn programming with game
 * [Visual Paradigm](https://www.visual-paradigm.com/)
 
 ## Misc
-
+* [Normalização de Bancos de Dados Relacionais](http://www.dsc.ufcg.edu.br/~pet/jornal/maio2011/materias/recapitulando.html)
 * [MER e ER](https://www.devmedia.com.br/modelo-entidade-relacionamento-mer-e-diagrama-entidade-relacionamento-der/14332)
 * [ODBC Driver](https://www.microsoft.com/pt-br/download/details.aspx?id=56567) Driver that links SQL server and MySQL
 * [SQL Express](https://www.microsoft.com/pt-br/download/details.aspx?id=55994)
