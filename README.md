@@ -86,6 +86,13 @@ Learn programming with game
 
 
 ## Misc
+* Polimorfismo
+* Async e Await
+* Promise
+* Classe abstrata
+* Multipla herança
+* Delegate ?
+
 * [Diagrama de Classes](https://www.devmedia.com.br/orientacoes-basicas-na-elaboracao-de-um-diagrama-de-classes/37224)
 * [Normalização de Bancos de Dados Relacionais](http://www.dsc.ufcg.edu.br/~pet/jornal/maio2011/materias/recapitulando.html)
 * [MER e ER Banco de dados](https://www.devmedia.com.br/modelo-entidade-relacionamento-mer-e-diagrama-entidade-relacionamento-der/14332)
