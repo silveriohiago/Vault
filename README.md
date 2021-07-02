@@ -107,4 +107,5 @@ Learn programming with game
 * [Depth first search](https://en.wikipedia.org/wiki/Depth-first_search)
 * [Beta Builds Win8](https://betawiki.net/wiki/Windows_8_build_8513_win8_gdr_soc_intel)
 * [Beta Builds releases](osvault.weebly.com)
+* [Ubuntu Minimal](http://archive.ubuntu.com/ubuntu/dists/focal/main/installer-amd64/current/legacy-images/netboot/)
 
