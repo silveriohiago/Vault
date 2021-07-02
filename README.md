@@ -73,6 +73,7 @@ Learn programming with game
 
 ## Tools
 * [Have I been pwned](https://haveibeenpwned.com/Passwords) Password verification for security against hydra stuff
+* [Docker](https://www.docker.com/)
 * [SQL Management Studio](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 * [Mysql Workbench](https://www.mysql.com/products/workbench/)
 * [Sublime Text](https://www.sublimetext.com/)
@@ -107,5 +108,6 @@ Learn programming with game
 * [Depth first search](https://en.wikipedia.org/wiki/Depth-first_search)
 * [Beta Builds Win8](https://betawiki.net/wiki/Windows_8_build_8513_win8_gdr_soc_intel)
 * [Beta Builds releases](osvault.weebly.com)
-* [Ubuntu Minimal](http://archive.ubuntu.com/ubuntu/dists/focal/main/installer-amd64/current/legacy-images/netboot/)
-
+* [GhostSpectre Builds](http://ghostspectre.the-ninja.jp/8.1.POTATO.X64.html)
+* [Ubuntu LTS](https://ubuntu.com/download/desktop)
+* [Lubuntu](https://lubuntu.me/)
