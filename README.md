@@ -105,4 +105,5 @@ Learn programming with game
 * [BFS search](https://en.wikipedia.org/wiki/Breadth-first_search)<br/>
 * [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)<br/>
 * [Depth first search](https://en.wikipedia.org/wiki/Depth-first_search)
+* [Beta Builds Win8](https://betawiki.net/wiki/Windows_8_build_8513_(win8_gdr_soc_intel)
 
