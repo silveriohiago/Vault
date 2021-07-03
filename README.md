@@ -20,6 +20,11 @@ Also anything here before being classified
 * [Web Dev Roadmap](https://github.com/kamranahmedse/developer-roadmap) A roadmap for web developers teaches how start from zero to hero
 * [GrassHopper](https://learn.grasshopper.app/project/fundamentals) <br/>
 
+## Javascript 
+* [Map](https://developer.mozilla.org/pt-BR/docs/orphaned/Web/JavaScript/Reference/Global_Objects/Map)
+* [Import e Require](https://pt.stackoverflow.com/questions/213910/javascript-diferen%C3%A7as-entre-import-e-require)
+* [Super](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/super)
+* [Const e Const{}](https://stackoverflow.com/questions/41058569/what-is-the-difference-between-const-and-const-in-javascript)
 
 ## CleanCode
 * [Jupeter's Clean Code repo (PHP)](https://github.com/jupeter/clean-code-php)
@@ -104,9 +109,6 @@ nothing here
 * Delegate ?
 * Maps
 
-* [Import e Require](https://pt.stackoverflow.com/questions/213910/javascript-diferen%C3%A7as-entre-import-e-require)
-* [Super no javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/super)
-* [Const e Const{}](https://stackoverflow.com/questions/41058569/what-is-the-difference-between-const-and-const-in-javascript)
 * [Diagrama de Classes](https://www.devmedia.com.br/orientacoes-basicas-na-elaboracao-de-um-diagrama-de-classes/37224)
 * [Normalização de Bancos de Dados Relacionais](http://www.dsc.ufcg.edu.br/~pet/jornal/maio2011/materias/recapitulando.html)
 * [MER e ER Banco de dados](https://www.devmedia.com.br/modelo-entidade-relacionamento-mer-e-diagrama-entidade-relacionamento-der/14332)
