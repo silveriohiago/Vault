@@ -6,19 +6,20 @@
 ## General
 Also anything here before being classified
 
-
-* <a href="https://www.youtube.com/freecodecamp">FreeCodeCamp Youtube Channel</a><br/>
-* <a href="https://forum.freecodecamp.org/">FreeCodeCamp Forum</a><br/>
-* <a href="https://www.devmedia.com.br/algoritmos-de-ordenacao-analise-e-comparacao/28261#:~:text=Os%20mais%20populares%20algoritmos%20de,Heap%20sort%20e%20Shell%20sort.">Kind of Sorts</a><br/>
+* <a href="https://www.youtube.com/freecodecamp">FreeCodeCamp Youtube Channel</a>
+* <a href="https://forum.freecodecamp.org/">FreeCodeCamp Forum</a>
+* <a href="https://www.devmedia.com.br/algoritmos-de-ordenacao-analise-e-comparacao/28261#:~:text=Os%20mais%20populares%20algoritmos%20de,Heap%20sort%20e%20Shell%20sort.">Kind of Sorts</a>
 * <a href="https://www.codecademy.com/">Codecademy</a>
 * <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction"> MDN Javascript Guide</a> Learn Javascript by Mozzila
 * <a href="https://digitalinnovation.one/sign-up">Digital Innovation</a> (unverified)
 * <a href="https://cursoemvideo.com/" >Curso em Vídeo</a> Portuguese programming website
 * <a href="https://www.sololearn.com/" >Solo Learn</a> (unverified)
 * <a href="https://vuejs.org/v2/guide/">Vue.Js</a> Learn vue.js from zero
+* <a href="https://www.codingame.com/">CodinGame</a> Learn with gamefication
 * [Codecamp](https://www.freecodecamp.org/) Train your code and learn stuff by solving problems
 * [Web Dev Roadmap](https://github.com/kamranahmedse/developer-roadmap) A roadmap for web developers teaches how start from zero to hero
 * [GrassHopper](https://learn.grasshopper.app/project/fundamentals) <br/>
+
 
 ## CleanCode
 * [Jupeter's Clean Code repo (PHP)](https://github.com/jupeter/clean-code-php)
@@ -66,10 +67,9 @@ nothing here
 * CakePHP
 * ZendFramework
 
-## Gamefication
-Learn programming with game
 
-* [CodinGame](https://www.codingame.com/)
+## Seo
+* [Sem Rush](https://www.semrush.com/)
 
 ## Tools
 * [Have I been pwned](https://haveibeenpwned.com/Passwords) Password verification for security against hydra stuff
@@ -85,6 +85,15 @@ Learn programming with game
 * [Visual Paradigm](https://www.visual-paradigm.com/) -> Software to build diagrams
 * [Bizagi](https://www.bizagi.com/pt) -> Software to create activity diagrams
 
+## Infra
+* [Beta Builds Win8](https://betawiki.net/wiki/Windows_8_build_8513_win8_gdr_soc_intel)
+* [Beta Builds releases](osvault.weebly.com)
+* [GhostSpectre Builds](http://ghostspectre.the-ninja.jp/8.1.POTATO.X64.html)
+* [Ubuntu LTS](https://ubuntu.com/download/desktop)
+* [Lubuntu](https://lubuntu.me/)
+* [Hiren's Boot](https://www.hirensbootcd.org/)
+* [Norton Ghost](https://norton-ghost.softonic.com.br/)
+* [SQL Express](https://www.microsoft.com/pt-br/download/details.aspx?id=55994)
 
 ## Misc
 * Polimorfismo
@@ -101,17 +110,9 @@ Learn programming with game
 * [Diagrama de Classes](https://www.devmedia.com.br/orientacoes-basicas-na-elaboracao-de-um-diagrama-de-classes/37224)
 * [Normalização de Bancos de Dados Relacionais](http://www.dsc.ufcg.edu.br/~pet/jornal/maio2011/materias/recapitulando.html)
 * [MER e ER Banco de dados](https://www.devmedia.com.br/modelo-entidade-relacionamento-mer-e-diagrama-entidade-relacionamento-der/14332)
-* [ODBC Driver](https://www.microsoft.com/pt-br/download/details.aspx?id=56567) Driver that links SQL server and MySQL
-* [SQL Express](https://www.microsoft.com/pt-br/download/details.aspx?id=55994)
 * [MRP O que é?](https://www.totvs.com/blog/gestao-industrial/saiba-o-que-e-mrp-e-como-ele-e-usado-na-gestao-de-industrias/)
-* [Sem Rush](https://www.semrush.com/)
 * [Shields.io](https://shields.io/) A website for build badges to repos
 * [Meetup Brasil](https://www.meetup.com/pt-BR/) Meetups that serve as networking growth
 * [BFS search](https://en.wikipedia.org/wiki/Breadth-first_search)<br/>
 * [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)<br/>
 * [Depth first search](https://en.wikipedia.org/wiki/Depth-first_search)
-* [Beta Builds Win8](https://betawiki.net/wiki/Windows_8_build_8513_win8_gdr_soc_intel)
-* [Beta Builds releases](osvault.weebly.com)
-* [GhostSpectre Builds](http://ghostspectre.the-ninja.jp/8.1.POTATO.X64.html)
-* [Ubuntu LTS](https://ubuntu.com/download/desktop)
-* [Lubuntu](https://lubuntu.me/)
