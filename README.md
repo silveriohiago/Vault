@@ -93,7 +93,10 @@ Learn programming with game
 * Classe abstrata
 * Multipla herança
 * Delegate ?
+* Maps
 
+* [Operadores => Super](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/super)
+* [Const e Const{}](https://stackoverflow.com/questions/41058569/what-is-the-difference-between-const-and-const-in-javascript)
 * [Diagrama de Classes](https://www.devmedia.com.br/orientacoes-basicas-na-elaboracao-de-um-diagrama-de-classes/37224)
 * [Normalização de Bancos de Dados Relacionais](http://www.dsc.ufcg.edu.br/~pet/jornal/maio2011/materias/recapitulando.html)
 * [MER e ER Banco de dados](https://www.devmedia.com.br/modelo-entidade-relacionamento-mer-e-diagrama-entidade-relacionamento-der/14332)
