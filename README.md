@@ -95,6 +95,7 @@ Learn programming with game
 * Delegate ?
 * Maps
 
+* [Import e Require](https://pt.stackoverflow.com/questions/213910/javascript-diferen%C3%A7as-entre-import-e-require)
 * [Super no javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/super)
 * [Const e Const{}](https://stackoverflow.com/questions/41058569/what-is-the-difference-between-const-and-const-in-javascript)
 * [Diagrama de Classes](https://www.devmedia.com.br/orientacoes-basicas-na-elaboracao-de-um-diagrama-de-classes/37224)
