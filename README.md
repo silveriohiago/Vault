@@ -104,6 +104,7 @@ nothing here
 * [Hiren's Boot](https://www.hirensbootcd.org/)
 * [Norton Ghost](https://norton-ghost.softonic.com.br/)
 * [SQL Express](https://www.microsoft.com/pt-br/download/details.aspx?id=55994)
+* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) -> Check HDD health
 
 ## Misc
 * Polimorfismo
