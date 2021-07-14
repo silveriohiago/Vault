@@ -86,9 +86,14 @@ nothing here
 * [Visual Studio](https://visualstudio.microsoft.com/)
 * [Vim](https://www.vim.org/)
 * [Slack](https://slack.com/intl/pt-br/) -> programing groups around here
-* [Discord](https://discordapp.com) -> Discord have groups on web just search for it (They are Labs) 
+* [Discord](https://discordapp.com) -> Discord have groups on web just search for it (they are "labs") 
 * [Visual Paradigm](https://www.visual-paradigm.com/) -> Software to build diagrams
 * [Bizagi](https://www.bizagi.com/pt) -> Software to create activity diagrams
+* [GMetrix](https://gtmetrix.com/) -> Website speed test
+* [Postman](https://www.postman.com/) -> Test /POST /DELETE /UPDATE /GET entries 
+* [Simet.Nic.BR](https://beta.simet.nic.br/) -> Testador de velocidade real de internet. [BR]
+* [Anonymity Check](https://proxy6.net/en/privacy) 
+* [Pingdom](https://www.pingdom.com/)
 
 ## Infra
 * [Beta Builds Win8](https://betawiki.net/wiki/Windows_8_build_8513_win8_gdr_soc_intel)
