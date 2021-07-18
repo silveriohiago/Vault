@@ -105,6 +105,8 @@ nothing here
 * [Norton Ghost](https://norton-ghost.softonic.com.br/)
 * [SQL Express](https://www.microsoft.com/pt-br/download/details.aspx?id=55994)
 * [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) -> Check HDD health
+* [Winpe10Sergei](https://sergeistrelec.ru/raznoe/203-winpe-10-8-sergei-strelec-x86-x64-native-x86-20210105-english-version.html) -> WinPe with tools
+* [HDDRegenratorv2011](https://hdd-regenerator.en.uptodown.com/windows/download) -> HD bad sector fix
 
 ## Misc
 * Polimorfismo
