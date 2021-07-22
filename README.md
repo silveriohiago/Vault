@@ -107,6 +107,8 @@ nothing here
 * [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) -> Check HDD health
 * [Winpe10Sergei](https://sergeistrelec.ru/raznoe/203-winpe-10-8-sergei-strelec-x86-x64-native-x86-20210105-english-version.html) -> WinPe with tools
 * [HDDRegenratorv2011](https://hdd-regenerator.en.uptodown.com/windows/download) -> HD bad sector fix
+* [LBA to MB](http://www.unitconversion.org/unit_converter/data-storage.html)
+* [LBA inspection](https://www.deathwombat.com/diskgeometry.html)
 
 ## Misc
 * Polimorfismo
