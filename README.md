@@ -114,7 +114,7 @@ nothing here
 ## Android
 
 * [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en&gl=US)
-* [How to port fowarding](https://unix.stackexchange.com/questions/293304/using-netcat-for-port-forwarding/293308#293308)
+* [How to port forwarding](https://unix.stackexchange.com/questions/293304/using-netcat-for-port-forwarding/293308#293308) Use socat to port forward
 * [Pkg install](https://wiki.termux.com/wiki/Package_Management)
 * [Apt-get download](https://unix.stackexchange.com/questions/408346/how-to-download-package-not-install-it-with-apt-get-command) How to download packages before install on termux
 * [Clear apt-get download](https://itsfoss.com/clear-apt-cache/)
