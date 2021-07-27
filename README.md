@@ -111,6 +111,15 @@ nothing here
 * [LBA inspection](https://www.deathwombat.com/diskgeometry.html)
 * [How to force Remap of sectors reported](https://superuser.com/questions/384095/how-to-force-a-remap-of-sectors-reported-in-s-m-a-r-t-c5-current-pending-sector)
 
+## Android
+
+* [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en&gl=US)
+* [How to port fowarding](https://unix.stackexchange.com/questions/293304/using-netcat-for-port-forwarding/293308#293308)
+* [Pkg install](https://wiki.termux.com/wiki/Package_Management)
+* [Apt-get download](https://unix.stackexchange.com/questions/408346/how-to-download-package-not-install-it-with-apt-get-command) How to download packages before install on termux
+* [Clear apt-get download](https://itsfoss.com/clear-apt-cache/)
+
+
 ## Misc
 * Polimorfismo
 * Async e Await
