@@ -6,6 +6,9 @@
 ## General
 Also anything here before being classified
 
+* [Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
+* [UX e Usabilidade Mobile Web Caelum BR](https://www.caelum.com.br/apostila-ux-usabilidade-mobile-web/)
+* [TDD Caelum BR](http://tdd.caelum.com.br/)
 * <a href="https://www.youtube.com/freecodecamp">FreeCodeCamp Youtube Channel</a>
 * <a href="https://forum.freecodecamp.org/">FreeCodeCamp Forum</a>
 * <a href="https://www.devmedia.com.br/algoritmos-de-ordenacao-analise-e-comparacao/28261#:~:text=Os%20mais%20populares%20algoritmos%20de,Heap%20sort%20e%20Shell%20sort.">Kind of Sorts</a>
