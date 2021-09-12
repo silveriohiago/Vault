@@ -109,7 +109,7 @@ nothing here
 * [SQL Express](https://www.microsoft.com/pt-br/download/details.aspx?id=55994)
 * [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) -> Check HDD health
 * [Winpe10Sergei](https://sergeistrelec.ru/raznoe/203-winpe-10-8-sergei-strelec-x86-x64-native-x86-20210105-english-version.html) -> WinPe with tools
-* [HDDRegenratorv2011](https://hdd-regenerator.en.uptodown.com/windows/download) -> HD bad sector fix
+* [HDDRegenratorv2011](https://hdd-regenerator.en.uptodown.com/windows/download) -> HD bad sector fix (not fix everything but is the last option as resource)
 * [LBA to MB](http://www.unitconversion.org/unit_converter/data-storage.html)
 * [LBA inspection](https://www.deathwombat.com/diskgeometry.html)
 * [How to force Remap of sectors reported](https://superuser.com/questions/384095/how-to-force-a-remap-of-sectors-reported-in-s-m-a-r-t-c5-current-pending-sector)
