@@ -113,6 +113,7 @@ nothing here
 * [LBA to MB](http://www.unitconversion.org/unit_converter/data-storage.html)
 * [LBA inspection](https://www.deathwombat.com/diskgeometry.html)
 * [How to force Remap of sectors reported](https://superuser.com/questions/384095/how-to-force-a-remap-of-sectors-reported-in-s-m-a-r-t-c5-current-pending-sector)
+* [Change link from program files](https://www.ubackup.com/backup-restore/move-program-files-to-another-drive-windows-10.html)
 
 ## CyberSecurity
 * [TryHackMe](https://tryhackme.com/)
