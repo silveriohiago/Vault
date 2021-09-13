@@ -1,11 +1,10 @@
 <base target="_blank">
-
+ 
 ## Welcome 
 <a href="https://github.com/hiagosilverio/my-wiki/blob/main/intro.md"><img src="https://img.shields.io/badge/About%20My Wiki%20-333.svg"></a>
 
 ## General
 Also anything here before being classified
-
 * [Java e Orientação a Objetos BR](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
 * [UX e Usabilidade Mobile Web Caelum BR](https://www.caelum.com.br/apostila-ux-usabilidade-mobile-web/)
 * [TDD Caelum BR](http://tdd.caelum.com.br/)
@@ -114,6 +113,7 @@ nothing here
 * [LBA inspection](https://www.deathwombat.com/diskgeometry.html)
 * [How to force Remap of sectors reported](https://superuser.com/questions/384095/how-to-force-a-remap-of-sectors-reported-in-s-m-a-r-t-c5-current-pending-sector)
 * [Change link from program files](https://www.ubackup.com/backup-restore/move-program-files-to-another-drive-windows-10.html)
+* [LSE](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html)
 
 ## CyberSecurity
 * [TryHackMe](https://tryhackme.com/)
