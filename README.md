@@ -1,5 +1,6 @@
 <base target="_blank">
-![visitors](https://visitor-badge.glitch.me/badge?page_id=78170.78170&left_color=green&right_color=red)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=78170.mywiki&left_color=black&right_color=gray)
 
 ## Welcome 
 <a href="https://github.com/hiagosilverio/my-wiki/blob/main/intro.md"><img src="https://img.shields.io/badge/About%20My Wiki%20-333.svg"></a>
