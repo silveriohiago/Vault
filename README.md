@@ -1,6 +1,7 @@
 <base target="_blank">
 
 ![views](https://visitor-badge.glitch.me/badge?page_id=78170.mywiki&left_color=black&right_color=gray)
+![last-commit](https://img.shields.io/github/last-commit/78170/my-wiki?color=%23000)<br/>
 
 ## Welcome 
 <a href="https://github.com/hiagosilverio/my-wiki/blob/main/intro.md"><img src="https://img.shields.io/badge/About%20My Wiki%20-333.svg"></a>
