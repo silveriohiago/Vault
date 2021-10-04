@@ -46,7 +46,7 @@ Also anything here before being classified
 * [PHP Right Way](http://br.phptherightway.com/pages/Design-Patterns.html)
 * [Javascript](https://imasters.com.br/devsecops/design-patterns-com-javascript-typescript)
 * SOLID
-* TDD
+* TDD 
 
 ## Shops (E-commerces)
 
