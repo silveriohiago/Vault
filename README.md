@@ -151,4 +151,6 @@ nothing here
 * [Meetup Brasil](https://www.meetup.com/pt-BR/) Meetups that serve as networking growth
 * [BFS search](https://en.wikipedia.org/wiki/Breadth-first_search)<br/>
 * [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)<br/>
-* [Depth first search](https://en.wikipedia.org/wiki/Depth-first_search)
+* [Depth first search](https://en.wikipedia.org/wiki/Depth-first_search)* 
+* [IEE754 standard BR](https://www.lia.ufc.br/~valdisio/download/ieee.pdf)
+
