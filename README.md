@@ -153,5 +153,5 @@ nothing here
 * [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)<br/>
 * [Depth first search](https://en.wikipedia.org/wiki/Depth-first_search)* 
 * [IEE754 standard BR](https://www.lia.ufc.br/~valdisio/download/ieee.pdf)
-* [ISO/IEC/IEEE 42010](https://www.iso.org/standard/50508.html)
+* [ISO/IEC/IEEE 42010](https://nanopdf.com/download/iso-iec-ieee-420102011e-systems-and-software-engineering_pdf)
 
