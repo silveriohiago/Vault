@@ -7,6 +7,12 @@
 <a href="https://github.com/hiagosilverio/my-wiki/blob/main/intro.md"><img src="https://img.shields.io/badge/About%20My Wiki%20-333.svg"></a>
 <a href="https://github.com/78170/my-wiki/commits/main"><img src="https://img.shields.io/badge/Commit%20Log%20-333.svg"></a>
 
+## Summary
+* [General](#general)
+* [Javascript](#javascript)
+* [Lint](#general)
+* [General](#general)
+
 ## General
 Also anything here before being classified
 * [Java e Orientação a Objetos BR](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
