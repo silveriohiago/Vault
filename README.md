@@ -25,6 +25,7 @@ Also anything here before being classified
 * [Codecamp](https://www.freecodecamp.org/) Train your code and learn stuff by solving problems
 * [Web Dev Roadmap](https://github.com/kamranahmedse/developer-roadmap) A roadmap for web developers teaches how start from zero to hero
 * [GrassHopper](https://learn.grasshopper.app/project/fundamentals) <br/>
+* [Ocean Brasil](http://oceanbrasil.com/online/) Free courses  
 
 ## Javascript 
 * [Map](https://developer.mozilla.org/pt-BR/docs/orphaned/Web/JavaScript/Reference/Global_Objects/Map)
@@ -68,6 +69,7 @@ nothing here
 ## Frameworks
 
 * [Phaser](http://phaser.io/) A gaming framework that develops games with HTML and Javascript
+* [Swoole](https://www.swoole.co.uk/docs/)
 * [Babel.js](https://babeljs.io/setup#installation) Javascript framework
 * [Typescript](https://www.typescriptlang.org/download) 
 * [Coffeescript](https://coffeescript.org/)
@@ -77,12 +79,25 @@ nothing here
 * Laravel
 * CakePHP
 * ZendFramework
+* [SlimFramework](https://www.slimframework.com/)
+* Grunt
+* Backbone.js
+* Gulp
+* Jade
+* Sass
+* Lass
+* Stylus
+* Scss
 
 
 ## Seo
 * [Sem Rush](https://www.semrush.com/)
 
 ## Tools
+* [Whimsical](https://whimsical.com)
+* [ClickUp](https://clickup.com/)
+* [Liveweave](https://liveweave.com)
+* [Figma]( https://www.figma.com)
 * [Have I been pwned](https://haveibeenpwned.com/Passwords) Password verification for security against hydra stuff
 * [Docker](https://www.docker.com/)
 * [SQL Management Studio](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
