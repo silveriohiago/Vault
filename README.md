@@ -81,6 +81,9 @@ nothing here
 * ZendFramework
 * [SlimFramework](https://www.slimframework.com/)
 * Grunt
+* Angular.js
+* Vue.js
+* React.js
 * Backbone.js
 * Gulp
 * Jade
