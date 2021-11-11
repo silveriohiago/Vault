@@ -10,8 +10,19 @@
 ## Summary
 * [General](#general)
 * [Javascript](#javascript)
+* [CleanCode](#cleancode)
 * [Lint](#general)
-* [General](#general)
+* [Design Patterns](#design-patterns)
+* [Shops](#shops)
+* [CMS](#cms)
+* [Unit Tests](#unit-tests)
+* [Frameworks](#frameworks)
+* [Seo](#seo)
+* [Tools](#tools)
+* [Infra](#infra)
+* [CyberSecurity](#cybersecurity)
+* [Android](#android)
+* [Misc](#misc)
 
 ## General
 Also anything here before being classified
