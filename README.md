@@ -118,6 +118,7 @@ nothing here
 * [Sem Rush](https://www.semrush.com/)
 
 ## Tools
+* [Photopea](https://www.photopea.com/)
 * [Whimsical](https://whimsical.com)
 * [ClickUp](https://clickup.com/)
 * [Liveweave](https://liveweave.com)
