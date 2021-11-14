@@ -27,7 +27,8 @@
 ## General
 Also anything here before being classified
 * [Java e Orientação a Objetos BR](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
-* [Polimorfismo](https://homepages.dcc.ufmg.br/~jefersson/cursos/dcc052/Aula10.pdf)
+* [Tipos de Polimorfismo, ad hoc e universal](https://homepages.dcc.ufmg.br/~jefersson/cursos/dcc052/Aula10.pdf)
+* [Polimorfismo de Inclusão](http://albertocn.sytes.net/2012-1/plp/slides/Aula21-LingObjetos_Heranca_Poli_Inclusao.pdf)
 * [UX e Usabilidade Mobile Web Caelum BR](https://www.caelum.com.br/apostila-ux-usabilidade-mobile-web/)
 * [TDD Caelum BR](http://tdd.caelum.com.br/)
 * <a href="https://www.youtube.com/freecodecamp">FreeCodeCamp Youtube Channel</a>
