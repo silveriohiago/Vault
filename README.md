@@ -120,6 +120,7 @@ nothing here
 * [Sem Rush](https://www.semrush.com/)
 
 ## Tools
+* [Method Draw Vector Editor](https://editor.method.ac/) SVG online editor
 * [Photopea](https://www.photopea.com/)
 * [Whimsical](https://whimsical.com)
 * [ClickUp](https://clickup.com/)
