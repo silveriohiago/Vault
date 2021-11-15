@@ -185,6 +185,7 @@ nothing here
 
 * GraphQL
 * Oauth2.0
+* [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 * [PHP5 is missing error](https://stackoverflow.com/questions/5592739/program-cant-start-because-php5-dll-is-missing)
 * [Diagrama de Classes](https://www.devmedia.com.br/orientacoes-basicas-na-elaboracao-de-um-diagrama-de-classes/37224)
 * [Normalização de Bancos de Dados Relacionais](http://www.dsc.ufcg.edu.br/~pet/jornal/maio2011/materias/recapitulando.html)
