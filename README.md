@@ -121,11 +121,11 @@ nothing here
 
 ## Tools
 * [Method Draw Vector Editor](https://editor.method.ac/) SVG online editor
-* [Photopea](https://www.photopea.com/)
-* [Whimsical](https://whimsical.com)
-* [ClickUp](https://clickup.com/)
-* [Liveweave](https://liveweave.com)
-* [Figma]( https://www.figma.com)
+* [Photopea](https://www.photopea.com/) Photoshop Online
+* [Whimsical](https://whimsical.com) Mind Maps, Documentation, Packages, BPMN
+* [ClickUp](https://clickup.com/) Task manager
+* [Liveweave](https://liveweave.com) Js, HTML, CSS online editor 
+* [Figma]( https://www.figma.com) UX/UI tool
 * [Have I been pwned](https://haveibeenpwned.com/Passwords) Password verification for security against hydra stuff
 * [Docker](https://www.docker.com/)
 * [SQL Management Studio](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
