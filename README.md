@@ -145,6 +145,7 @@ nothing here
 * [Simet.Nic.BR](https://beta.simet.nic.br/) -> Testador de velocidade real de internet. [BR]
 * [Anonymity Check](https://proxy6.net/en/privacy) 
 * [Pingdom](https://www.pingdom.com/)
+* [WeTransfer](https://wetransfer.com/)
 
 ## Infra
 * [Beta Builds Win8](https://betawiki.net/wiki/Windows_8_build_8513_win8_gdr_soc_intel)
@@ -201,4 +202,5 @@ nothing here
 * [Depth first search](https://en.wikipedia.org/wiki/Depth-first_search)* 
 * [IEE754 standard BR](https://www.lia.ufc.br/~valdisio/download/ieee.pdf)
 * [ISO/IEC/IEEE 42010](https://nanopdf.com/download/iso-iec-ieee-420102011e-systems-and-software-engineering_pdf)
+
 
