@@ -175,6 +175,7 @@ nothing here
 * [Pkg install](https://wiki.termux.com/wiki/Package_Management)
 * [Apt-get download](https://unix.stackexchange.com/questions/408346/how-to-download-package-not-install-it-with-apt-get-command) How to download packages before install on termux
 * [Clear apt-get download](https://itsfoss.com/clear-apt-cache/)
+* [QtScrcpy](https://gitee.com/Barryda/QtScrcpy) -> map over screen keys
 
 
 ## Misc
