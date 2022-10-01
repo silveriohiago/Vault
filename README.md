@@ -116,6 +116,11 @@ nothing here
 * Bootstrap
 * Foundation
 
+## SQL
+* [SQL Course](https://www.sqlcourse.com)
+* [SQLBolt](https://www.sqlbolt.com)
+* [SQLTeaching](https://www.sqlteaching.com)
+* [SQLStars](https://www.selectstarsql.com)
 
 ## Seo
 * [Sem Rush](https://www.semrush.com/)
