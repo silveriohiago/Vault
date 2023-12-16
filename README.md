@@ -116,6 +116,7 @@ Also anything here before being classified
 * Bulma
 * Bootstrap
 * Foundation
+* [Hystrix](https://medium.com/cwi-software/ativando-circuit-breaker-utilizando-hystrix-com-spring-boot-em-apis-parte-1-4488cb3e7685)
 
 ## SQL
 * [SQL Course](https://www.sqlcourse.com)
